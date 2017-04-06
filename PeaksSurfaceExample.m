@@ -4,5 +4,8 @@
 % Copyright 2015 The MathWorks, Inc.
 
 
-figure
+figure(1)
 peaks(5);
+
+figure(2)
+peaks(10);
